@@ -2,6 +2,8 @@
   "name": "webpack-academy-one",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "吉翔 <jx4554@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.16.0"
+  }
 }
